@@ -40,4 +40,4 @@ It's a conversational AI chatbot that understands and answers questions from a P
 4.Knowledge base chatbot for any PDF content
 
 
-Google Colab Link :https://colab.research.google.com/drive/1Qf_5XOYJC0zu44j8qdSlQlkh9wiUlT2A?usp=sharing
+Google Colab Link :[Colab Notebook Link](https://colab.research.google.com/drive/1Qf_5XOYJC0zu44j8qdSlQlkh9wiUlT2A?usp=sharing)
