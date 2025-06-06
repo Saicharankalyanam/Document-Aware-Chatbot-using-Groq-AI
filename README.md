@@ -12,7 +12,7 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ## 🚀 Features
 
- - Load and parse PDF documents
+ - Loading PDF documents
  
  - Chunk text for context-aware understanding
  
@@ -20,11 +20,11 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
  
  - Store and retrieve embeddings using Chroma VectorDB
  
- - Use Groq's LLaMA-3.3-70B-Versatile for ultra-fast inference
+ - Use Groq's LLM for ultra-fast inference
  
  - Multi-turn conversations with memory retention
  
- - Cites source documents for transparency
+ - Provided source references for transparency
  
  - Handles ambiguous or unrelated queries gracefully
 
