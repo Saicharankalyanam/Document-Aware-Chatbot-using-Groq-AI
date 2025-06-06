@@ -16,17 +16,17 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
  
  - Chunk text for context-aware understanding
  
- -Embed document content using Sentence Transformers
+ - Embed document content using Sentence Transformers
  
- -Store and retrieve embeddings using Chroma VectorDB
+ - Store and retrieve embeddings using Chroma VectorDB
  
- -Use Groq's LLaMA-3.3-70B-Versatile for ultra-fast inference
+ - Use Groq's LLaMA-3.3-70B-Versatile for ultra-fast inference
  
- -Multi-turn conversations with memory retention
+ - Multi-turn conversations with memory retention
  
- -Cites source documents for transparency
+ - Cites source documents for transparency
  
- -Handles ambiguous or unrelated queries gracefully
+ - Handles ambiguous or unrelated queries gracefully
 
 ---
 
@@ -42,12 +42,12 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ## 💡 Use Cases
 
--AI Tutor / Study Assistant for technical books
+- AI Tutor / Study Assistant for technical books
 
--nternal documentation Q&A
+- nternal documentation Q&A
 
--Customer support bot for product manuals
+- Customer support bot for product manuals
 
--Knowledge base chatbot for any PDF content
+- Knowledge base chatbot for any PDF content
 
 
