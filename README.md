@@ -1,6 +1,6 @@
 # Document-Aware-Chatbot-using-GroqAI
 
-##Objective
+## Objective
 This project makes a high-performance Generative AI chatbot that can deeply understand and interact with the content of a long-form document using Groq AI.
 It's a conversational AI chatbot that understands and answers questions from a PDF document. Powered by LangChain, Groq LLMs, Embeddings and ChromaDB for fast and intelligent retrieval-based question answering.
 
@@ -10,7 +10,7 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ---
 
-🚀##Features
+🚀## Features
 
  -Load and parse PDF documents
  
@@ -30,7 +30,7 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ---
 
-📝##Example Queries
+📝## Example Queries
  
  1."Explain what is vanishing gradient in deep learning."
  
@@ -40,7 +40,7 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ---
 
-💡##Use Cases
+💡## Use Cases
 
 -AI Tutor / Study Assistant for technical books
 
