@@ -12,9 +12,9 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ## 🚀 Features
 
- -Load and parse PDF documents
+ - Load and parse PDF documents
  
- -Chunk text for context-aware understanding
+ - Chunk text for context-aware understanding
  
  -Embed document content using Sentence Transformers
  
