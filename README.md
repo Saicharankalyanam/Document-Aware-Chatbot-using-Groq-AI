@@ -10,7 +10,7 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ---
 
-🚀## Features
+## 🚀 Features
 
  -Load and parse PDF documents
  
@@ -30,7 +30,7 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ---
 
-📝## Example Queries
+## 📝 Example Queries
  
  1."Explain what is vanishing gradient in deep learning."
  
@@ -40,7 +40,7 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 ---
 
-💡## Use Cases
+## 💡 Use Cases
 
 -AI Tutor / Study Assistant for technical books
 
