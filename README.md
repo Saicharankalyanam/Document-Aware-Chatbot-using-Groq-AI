@@ -1,6 +1,6 @@
 # Document-Aware-Chatbot-using-Groq-AI
 This project makes a high-performance Generative AI chatbot that can deeply understand and interact with the content of a long-form document using Groq AI.
-It's a conversational AI chatbot that understands and answers questions from a PDF document. Powered by LangChain, Groq LLMs, HuggingFace Embeddings, and ChromaDB for fast and intelligent retrieval-based question answering.
+It's a conversational AI chatbot that understands and answers questions from a PDF document. Powered by LangChain, Groq LLMs, Embeddings and ChromaDB for fast and intelligent retrieval-based question answering.
 
 🚀 Features
 
