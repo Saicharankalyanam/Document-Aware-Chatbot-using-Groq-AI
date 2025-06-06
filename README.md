@@ -3,9 +3,10 @@ This project makes a high-performance Generative AI chatbot that can deeply unde
 It's a conversational AI chatbot that understands and answers questions from a PDF document. Powered by LangChain, Groq LLMs, HuggingFace Embeddings, and ChromaDB for fast and intelligent retrieval-based question answering.
 
 🚀 Features
- 1. Load and parse PDF documents
+
+ 1.Load and parse PDF documents
  
- 2. Chunk text for context-aware understanding
+ 2.Chunk text for context-aware understanding
  
  3.Embed document content using Sentence Transformers
  
@@ -23,12 +24,13 @@ It's a conversational AI chatbot that understands and answers questions from a P
  
  1."Explain what is vanishing gradient in deep learning."
  
- 2. "What are the types of it?" (context-aware follow-up)
+ 2."What are the types of it?" (context-aware follow-up)
  
  3."What is PowerBI?" (handles unknown queries)
 
 
 💡 Use Cases
+
 1.AI Tutor / Study Assistant for technical books
 
 2.nternal documentation Q&A
