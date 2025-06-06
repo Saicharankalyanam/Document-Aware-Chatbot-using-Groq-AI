@@ -6,6 +6,8 @@ My Notebook Link : [Colab Notebook Link](https://colab.research.google.com/drive
 
 Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
+---
+
 🚀 Features
 
  1.Load and parse PDF documents
@@ -24,7 +26,9 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
  
  8.Handles ambiguous or unrelated queries gracefully
 
- Example Queries
+---
+
+📝Example Queries
  
  1."Explain what is vanishing gradient in deep learning."
  
@@ -32,6 +36,7 @@ Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
  
  3."What is PowerBI?" (handles unknown queries)
 
+---
 
 💡 Use Cases
 
