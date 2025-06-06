@@ -3,7 +3,8 @@ This project makes a high-performance Generative AI chatbot that can deeply unde
 It's a conversational AI chatbot that understands and answers questions from a PDF document. Powered by LangChain, Groq LLMs, Embeddings and ChromaDB for fast and intelligent retrieval-based question answering.
 
 My Notebook Link :[Colab Notebook Link](https://colab.research.google.com/drive/1Qf_5XOYJC0zu44j8qdSlQlkh9wiUlT2A?usp=sharing)
-Document File (PDF) : [Document Link](https://d2l.ai/d2l-en.pdf)
+
+Document File : [Document Link](https://d2l.ai/d2l-en.pdf)
 
 🚀 Features
 
